@@ -1,0 +1,271 @@
+*{
+    padding: 0px;
+}
+
+.header-section{
+    height: 800px;
+    width: 100%;
+    background-color: black;
+}
+
+.img-section{
+    text-align: right;
+}
+.nav-link{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -750px;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.text-section{
+    position: relative;
+    top: -650px;
+    width: 40%;
+    color: white;
+    padding: 20px;
+    margin-left: 80px;
+
+}
+.header-button{
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 25px;
+    background-color: rgb(241, 241, 5);
+}
+.header-button:hover{
+    background-color: black;
+    color: rgb(241, 241,5);
+    border: 1px solid rgb(241, 241, 5);
+    border-radius: 25px;
+}
+.text-icon{
+    display: flex;
+    margin-top: 40px;
+
+}
+.text-icon:hover{
+    background-color:rgb(241, 241,5) ;
+
+}
+/* main section style */
+
+/* about section style */
+
+.about-section{
+    height: 1000px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+
+    
+}
+.play-role{
+    font-size: 25px;
+    border: 1px solid yellow;
+    padding: 10px;
+    border-radius: 50%;
+    position: relative;
+    right: 570px;
+    top: -120px;
+    background-color: yellow;
+    text-align: center;
+}
+.about-text{
+    position: relative;
+    top: -900px;
+    width: 40%;
+    color: white;
+    padding: 20px;
+    margin-left: 80px;
+}
+
+/* gallary section started here */
+
+.photo-galary{
+    height: 1200px;
+    width: 100%;
+    margin-top: -285px;
+    text-align: center;
+    background-color: black;
+}
+.image1{
+     position: relative;
+     top: -720px;
+     right: 250px;
+}
+.image2{
+    display: flex;
+    gap: 20px;
+    position: relative;
+     top: -780px;
+     right: -300px;
+    
+}
+.image3{
+    display: flex;
+    gap: 20px;
+    position: relative;
+     top: -830px;
+     right: -450px;
+
+}
+.image4{
+    display: flex;
+    gap: 20px;
+    position: relative;
+     top: -880px;
+     right: -750px;
+
+
+}
+.gallery-text{
+    color: white;
+    position: relative;
+    top: -1200PX;
+    right: -880PX;
+}
+/* blog section started here */
+
+.blog-section{
+    height: 1200px;
+    width: 100%;
+    background-color: black;
+    margin-top: -250px;
+}
+.blog-container{
+    display: flex;
+    gap: 30px;
+}
+.blog1{
+    height: 580px;
+    width: 400px;
+    background-color:white;
+    position: relative;
+    top: -250px;
+    left: 200px;
+    border-radius: 25px;
+}
+.blog2{
+    height: 580px;
+    width: 400px;
+    background-color:white;
+    position: relative;
+    top: -450px;
+    left: 200px;
+    border-radius: 25px;
+}
+.blog-text{
+    padding: 20px;
+}
+.blog-section-text{
+    position: relative;
+    top: -1100px;
+    width: 40%;
+    color: white;
+    padding: 20px;
+    margin-left: 80px;
+
+}
+/* customer section started here */
+.customer-section{
+    height: 900px;
+    width: 100%;
+    background-color: black;
+    margin-top: -285px;
+}
+
+
+.customer-photo-gallery{
+    width: 1100px;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -350px;
+     
+
+}
+.clint{ 
+    width: 500px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -50px;
+    left: 200px; 
+
+}
+.clint-section{
+    width: 400px;
+    height: 450px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    top:-200px ;
+
+}
+.clint-icon{
+    font-size: 25px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: black;
+}
+.clint-icon:hover{
+    background-color:gold;
+}
+.camera{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    bottom: -100px;
+    left: 100px;
+}
+.cutomer-text{
+    position: relative;
+    top: -1450px;
+    left: 850px;
+    color: white;
+}
+/* footer section started here */
+.footer-section{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(10, 10, 10);
+    position: relative;
+    top: -25px;
+}
+.contact-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.footer-logo{
+    /* font-size: 18px;
+    gap: 20px; */
+}
+.link-name{
+    color: white;
+}
+.logo-img{
+    /* height: 100px; */
+    width: 300px;
+    /* background-color: white; */
+    position: relative;
+    top: 100px;
+
+
+}
+.logo-img img{
+    margin-right: 20px;
+    /* color: white; */
+    /* opacity: 90; */
+}
