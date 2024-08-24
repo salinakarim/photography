@@ -1,5 +1,6 @@
 *{
     padding: 0px;
+    margin: 0px;
 }
 
 .header-section{
@@ -88,7 +89,7 @@
 .photo-galary{
     height: 1200px;
     width: 100%;
-    margin-top: -285px;
+    margin-top: -200px;
     text-align: center;
     background-color: black;
 }
@@ -101,7 +102,7 @@
     display: flex;
     gap: 20px;
     position: relative;
-     top: -780px;
+     top: -720px;
      right: -300px;
     
 }
@@ -109,7 +110,7 @@
     display: flex;
     gap: 20px;
     position: relative;
-     top: -830px;
+     top: -730px;
      right: -450px;
 
 }
@@ -117,8 +118,8 @@
     display: flex;
     gap: 20px;
     position: relative;
-     top: -880px;
-     right: -750px;
+     top: -750px;
+     right: -650px;
 
 
 }
@@ -175,7 +176,7 @@
     height: 900px;
     width: 100%;
     background-color: black;
-    margin-top: -285px;
+    margin-top: -200px;
 }
 
 
@@ -240,7 +241,7 @@
     width: 100%;
     background-color: rgb(10, 10, 10);
     position: relative;
-    top: -25px;
+    /* top: -25px; */
 }
 .contact-section{
     display: flex;
